@@ -1,0 +1,17 @@
+// Para saber ubicación de pacientes
+select * from inpacubi
+
+//para saber datos demograficos
+select * from abpac
+
+//para saber datos de egresos
+select * from inmegr
+
+
+select * from hiepiina
+
+//tabla para saber las causas de egreso
+select * from incau
+
+//tabla para saber los servicios
+select * from inser
